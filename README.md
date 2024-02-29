@@ -1,11 +1,14 @@
-GIVEN I am taking a code quiz
-WHEN I click the start button
-THEN a timer starts and I am presented with a question
-WHEN I answer a question
-THEN I am presented with another question
-WHEN I answer a question incorrectly
-THEN time is subtracted from the clock
-WHEN all questions are answered or the timer reaches 0
-THEN the game is over
-WHEN the game is over
-THEN I can save my initials and score
+Dyaln Slyters quick quiz 
+
+creating a quiz using html, css, and javascript
+
+Description
+
+My quiz meets requiremnts of going down 10 seconds when the wrong answer is selected, it starts quiz when the button is selected and after the last questions it asks for initials and then after, it shows your initials and the score you got.
+
+Usage
+
+Taking a quiz asking simple random questions showing how javascript works
+
+Here is a screenshot 
+![ScreenShot](assets/image1.png)
